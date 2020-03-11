@@ -2,6 +2,10 @@
 
 MPI Implementation in C using sockets.
 
+## Build Instructions
+
+```make -f p1.Makefile``` 
+
 ## Execution Instruction
 
 ./my_prun.sh <No. of nodes> ./my_rtt
