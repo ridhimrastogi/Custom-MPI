@@ -4,8 +4,8 @@ MPI Implementation in C using sockets.
 
 ## Execution Instruction
 
-./my_pun.sh [No. of nodes] ./my_rtt
+./my_prun.sh <No. of nodes> ./my_rtt
 
 ## Constraints
 
-1. Works for even number of nodes 
+1. Number of nodes in a communication network shoulf be even.
