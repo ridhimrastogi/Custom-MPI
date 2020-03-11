@@ -16,4 +16,4 @@ Example
 
 ## Constraints
 
-1. Number of nodes in a communication network shoulf be even.
+1. Number of nodes in a communication network should be even.
