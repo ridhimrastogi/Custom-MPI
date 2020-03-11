@@ -10,6 +10,10 @@ MPI Implementation in C using sockets.
 
 ./my_prun.sh <No. of nodes> ./my_rtt
 
+Example
+
+```./my_prun.sh 8 ./my_rtt```
+
 ## Constraints
 
 1. Number of nodes in a communication network shoulf be even.
